@@ -32,7 +32,7 @@ And user Enter The Cvv In The Cvv Field
 Then user Click The Booknow Button And It Navigates To The Logout Page
 
 Scenario: Logout Functionality
-But user Click The Logout Button
+Then user Click The Logout Button
 
 
 

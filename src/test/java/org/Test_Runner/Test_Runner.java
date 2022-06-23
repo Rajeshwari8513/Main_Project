@@ -23,7 +23,7 @@ public static WebDriver driver;
  @BeforeClass
  public static void setBrowser() {
 	driver = Base_Class.bowserLaunch("chrome");
-}
+ }
  
  @AfterClass
  public static void browserClose() {
